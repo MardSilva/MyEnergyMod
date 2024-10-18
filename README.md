@@ -21,8 +21,7 @@ When disabled, the energy system will function normally, and stamina will be con
 - Go to the Generic Mod Config Menu to access the settings for No Energy Loss Mod.
 - Toggle the "Disable energy loss" option to control whether energy is consumed during tasks.
 
-### Installation
-Requirements
+### Installation Requirements
 
 To install and use No Energy Loss Mod, you'll need to have the following installed:
 - SMAPI 3.0+: Stardew Valley's modding API that allows this and other mods to function.
