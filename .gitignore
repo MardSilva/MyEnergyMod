@@ -1,0 +1,12 @@
+# Ignore Visual Studio temporary files, build results, and
+# folder-based project settings.
+.vscode/
+.vscode/*
+bin/
+obj/
+
+# Ignore other build-related files.
+*.dll
+*.exe
+*.pdb
+*.cache
