@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+    <ItemGroup>
+  <Reference Include="GenericModConfigMenu">
+    <HintPath>lib/GenericModConfigMenu.dll</HintPath>
+  </Reference>
+  <Reference Include="StardewModdingAPI">
+    <HintPath>lib/StardewModdingAPI.dll</HintPath>
+  </Reference>
+  <Reference Include="StardewValley">
+    <HintPath>lib/StardewValley.dll</HintPath>
+  </Reference>
+  <Reference Include="SMAPI.Toolkit.CoreInterfaces">
+    <HintPath>lib/SMAPI.Toolkit.CoreInterfaces.dll</HintPath>
+  </Reference>
+</ItemGroup>
+
+</Project>

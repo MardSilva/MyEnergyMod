@@ -1,0 +1,5 @@
+{
+    "mod.name": "No Energy Loss Mod",
+    "config.energyLossDisabled": "Disable energy loss",
+    "config.energyLossDisabled.tooltip": "Toggle whether energy is lost when performing tasks."
+}  

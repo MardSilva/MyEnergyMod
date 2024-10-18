@@ -1,0 +1,17 @@
+C:\Users\eym_s\source\stvmods\MyEnergyMod\NoEnergyLossMod\bin\Debug\net6.0\NoEnergyLossMod.deps.json
+C:\Users\eym_s\source\stvmods\MyEnergyMod\NoEnergyLossMod\bin\Debug\net6.0\NoEnergyLossMod.dll
+C:\Users\eym_s\source\stvmods\MyEnergyMod\NoEnergyLossMod\bin\Debug\net6.0\NoEnergyLossMod.pdb
+C:\Users\eym_s\source\stvmods\MyEnergyMod\NoEnergyLossMod\bin\Debug\net6.0\GenericModConfigMenu.dll
+C:\Users\eym_s\source\stvmods\MyEnergyMod\NoEnergyLossMod\bin\Debug\net6.0\SMAPI.Toolkit.CoreInterfaces.dll
+C:\Users\eym_s\source\stvmods\MyEnergyMod\NoEnergyLossMod\bin\Debug\net6.0\StardewModdingAPI.dll
+C:\Users\eym_s\source\stvmods\MyEnergyMod\NoEnergyLossMod\bin\Debug\net6.0\StardewValley.dll
+C:\Users\eym_s\source\stvmods\MyEnergyMod\NoEnergyLossMod\obj\Debug\net6.0\NoEnergyLossMod.csproj.AssemblyReference.cache
+C:\Users\eym_s\source\stvmods\MyEnergyMod\NoEnergyLossMod\obj\Debug\net6.0\NoEnergyLossMod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eym_s\source\stvmods\MyEnergyMod\NoEnergyLossMod\obj\Debug\net6.0\NoEnergyLossMod.AssemblyInfoInputs.cache
+C:\Users\eym_s\source\stvmods\MyEnergyMod\NoEnergyLossMod\obj\Debug\net6.0\NoEnergyLossMod.AssemblyInfo.cs
+C:\Users\eym_s\source\stvmods\MyEnergyMod\NoEnergyLossMod\obj\Debug\net6.0\NoEnergyLossMod.csproj.CoreCompileInputs.cache
+C:\Users\eym_s\source\stvmods\MyEnergyMod\NoEnergyLossMod\obj\Debug\net6.0\NoEnergy.7D780BD1.Up2Date
+C:\Users\eym_s\source\stvmods\MyEnergyMod\NoEnergyLossMod\obj\Debug\net6.0\NoEnergyLossMod.dll
+C:\Users\eym_s\source\stvmods\MyEnergyMod\NoEnergyLossMod\obj\Debug\net6.0\refint\NoEnergyLossMod.dll
+C:\Users\eym_s\source\stvmods\MyEnergyMod\NoEnergyLossMod\obj\Debug\net6.0\NoEnergyLossMod.pdb
+C:\Users\eym_s\source\stvmods\MyEnergyMod\NoEnergyLossMod\obj\Debug\net6.0\ref\NoEnergyLossMod.dll

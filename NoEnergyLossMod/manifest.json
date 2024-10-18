@@ -1,0 +1,16 @@
+{
+    "Name": "No Energy Loss Mod v.1",
+    "Author": "EswareMods",
+    "Version": "1.0.0",
+    "Description": "An mod who allows the player do everything without energy loss.",
+    "UniqueID": "Esware.NoEnergyLossMod",
+    "EntryDll": "NoEnergyLossMod.dll",
+    "MinimumApiVersion": "3.0.0",
+    "UpdateKeys": [],
+    "Dependencies": [
+    {
+        "UniqueID": "spacechase0.GenericModConfigMenu",
+        "IsRequired": false
+    }
+    ]
+}  

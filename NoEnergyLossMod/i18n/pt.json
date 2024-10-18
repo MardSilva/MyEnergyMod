@@ -1,0 +1,5 @@
+{
+    "mod.name": "Mod Sem Perda de Energia",
+    "config.energyLossDisabled": "Desativar perda de energia",
+    "config.energyLossDisabled.tooltip": "Ativa ou desativa a perda de energia ao realizar tarefas."
+}  
